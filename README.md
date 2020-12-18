@@ -1,5 +1,5 @@
-# botst4rz
-BOT WHATSAPP HP BINTANG NUR PRADANA
+# Manz
+BOT WHATSAPP HP FF. XINN
 
 ### Alat dan Bahan
 Siapin alat dan bahannya.
