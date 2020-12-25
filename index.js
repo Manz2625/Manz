@@ -12,7 +12,7 @@ const menu = require("./lib/menu.js");
 const donate = require("./lib/donate.js");
 const info = require("./lib/info.js");
 //
-const BotName = ' ManzBOT 🤖'; // Nama Bot Whatsapp
+const BotName = ' HanzBot 🤖'; // Nama Bot Whatsapp
 const instagramlu = 'https://www.instagram.com/p/CIpN5YgJqU9/?igshid=1qa0kvi3xc2rb'; //  https://www.instagram.com/p/CIpN5YgJqU9/?igshid=1l5rj75tpmj4b
 const whatsapplu = '0859-1598-72360'; // 0859159872360
 const kapanbotaktif = 'Hanya Jam Tertentu'; // Tergantung Jaringan
