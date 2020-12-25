@@ -1,5 +1,5 @@
 # Manz
-BOT WHATSAPP HP FF. XINN
+BOT WHATSAPP HP HANZ FF
 
 ### Alat dan Bahan
 Siapin alat dan bahannya.
